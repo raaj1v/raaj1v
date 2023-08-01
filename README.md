@@ -34,14 +34,14 @@ But that's not all! When I'm not shaping the future with AI, I'm conjuring money
 Insights and Inspiration ✨
 My AI blog is a treasure trove of insights, tutorials, and musings on cutting-edge AI topics. Expect to be inspired and dazzled as we unravel the mysteries of this ever-evolving field.
 
-Connect with Me 🌐
-LinkedIn: in.linkedin.com/raaj1v
-Twitter: @raaj1v
-Email: imeandrj@gmail.com
+Connect with Me 🌐 <br>
+LinkedIn: in.linkedin.com/raaj1v<br>
+Twitter: @raaj1v<br>
+Email: imeandrj@gmail.com<br>
 Let's embark on this exciting adventure together! Join me in reshaping the world through AI and mastering the art of financial prosperity.
 
-AI Magic
-Financial Wizard
-AI Blog
+[![AI Magic](https://img.shields.io/badge/AI-Magic-orange)](link-to-ai-magic)
+[![Financial Wizard](https://img.shields.io/badge/Financial-Wizard-blue)](link-to-financial-wizard)
+[![AI Blog](https://img.shields.io/badge/AI%20Blog-Insights-lightgrey)](link-to-ai-blog)
 
 See you on the other side! 🌟💡
