@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Vivid AI Researcher and Money GEEK 🚀💰
 <div align="center">
-  <img src="https://your-image-url-here" alt="Profile Image">
+  <img src="https://github.com/raaj1v/raaj1v/blob/main/8-9T5C94QjyKOfiKg.png" alt="Profile Image">
 </div>
 Hello, curious minds! 👋
-Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm [Your Name], a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
+Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm Rajeev, a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
 
 About Me 🤓
 I'm a relentless explorer, always delving into the depths of AI to uncover its secrets. Whether it's training machines to understand human language or deciphering the mysteries of images, I love to create magic with code.
@@ -35,9 +35,9 @@ Insights and Inspiration ✨
 My AI blog is a treasure trove of insights, tutorials, and musings on cutting-edge AI topics. Expect to be inspired and dazzled as we unravel the mysteries of this ever-evolving field.
 
 Connect with Me 🌐
-LinkedIn: Your LinkedIn Profile
-Twitter: @YourTwitterHandle
-Email: your.email@example.com
+LinkedIn: in.linkedin.com/raaj1v
+Twitter: @raaj1v
+Email: imeandrj@gmail.com
 Let's embark on this exciting adventure together! Join me in reshaping the world through AI and mastering the art of financial prosperity.
 
 AI Magic
