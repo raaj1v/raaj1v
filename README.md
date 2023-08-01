@@ -35,8 +35,8 @@ Insights and Inspiration ✨
 My AI blog is a treasure trove of insights, tutorials, and musings on cutting-edge AI topics. Expect to be inspired and dazzled as we unravel the mysteries of this ever-evolving field.
 
 Connect with Me 🌐 <br>
-LinkedIn: in.linkedin.com/raaj1v<br>
-Twitter: @raaj1v<br>
+LinkedIn: <a href = "https://in.linkedin.com/raaj1v"> LinkedIn</a> <br>
+Twitter: <a href = "https://twitter.com/raaj1v"> @raaj1v</a><br>
 Email: imeandrj@gmail.com<br>
 Let's embark on this exciting adventure together! Join me in reshaping the world through AI and mastering the art of financial prosperity.
 
