@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Vivid AI Researcher and Money GEEK 🚀💰
 <div align="center">
-  <img src="https://github.com/raaj1v/raaj1v/blob/main/8-9T5C94QjyKOfiKg.png" alt="Profile Image", width= "500", height ="500">
+  <img src="https://github.com/raaj1v/raaj1v/blob/main/8-9T5C94QjyKOfiKg.png" alt="Profile Image", width= "200", height ="200">
 </div>
 Hello, curious minds! 👋
 Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm Rajeev, a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
@@ -40,8 +40,8 @@ Twitter: @raaj1v<br>
 Email: imeandrj@gmail.com<br>
 Let's embark on this exciting adventure together! Join me in reshaping the world through AI and mastering the art of financial prosperity.
 
-[![AI Magic](https://img.shields.io/badge/AI-Magic-orange)](link-to-ai-magic)
-[![Financial Wizard](https://img.shields.io/badge/Financial-Wizard-blue)](link-to-financial-wizard)
-[![AI Blog](https://img.shields.io/badge/AI%20Blog-Insights-lightgrey)](link-to-ai-blog)
+[![AI Magic](https://img.shields.io/badge/AI-Magic-orange)](link-to-ai-magic) <br>
+[![Financial Wizard](https://img.shields.io/badge/Financial-Wizard-blue)](link-to-financial-wizard)<br>
+[![AI Blog](https://img.shields.io/badge/AI%20Blog-Insights-lightgrey)](link-to-ai-blog) <br>
 
 See you on the other side! 🌟💡
