@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" width="400" alt="R4j1v's Dev Card" align = "left"/></a><br>
+<br>
+<br>
+
+<br><br>
 
 Vivid AI Researcher and Money GEEK 🚀💰
 
