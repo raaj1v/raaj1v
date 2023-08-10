@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Vivid AI Researcher and Money GEEK 🚀💰
 <!-- <div align="center">
 <!--   <img src="https://github.com/raaj1v/raaj1v/blob/main/8-9T5C94QjyKOfiKg.png" alt="Profile Image", width= "200", height ="200"> -->
-<img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" alt="Profile Image", width= "200", height ="200">
+        <img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" alt="Profile Image", width= "200", height ="200">
 <!-- </div> -->
-
+<img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" alt="Profile Image", width= "200", height ="200">
 Hello, curious minds! 👋
 Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm Rajeev, a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
 
