@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Vivid AI Researcher and Money GEEK 🚀💰
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" width="400" alt="R4j1v's Dev Card" align = "left"/></a>
 
+Vivid AI Researcher and Money GEEK 🚀💰
 
 Hello, curious minds! 👋
 Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm Rajeev, a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
