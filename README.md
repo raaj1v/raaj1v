@@ -20,7 +20,6 @@ Vivid AI Researcher and Money GEEK 🚀💰
 <!--   <img src="https://github.com/raaj1v/raaj1v/blob/main/8-9T5C94QjyKOfiKg.png" alt="Profile Image", width= "200", height ="200"> -->
 <!-- </div> -->
 
-<a href="https://app.daily.dev/rajeevmishra"><img src="https://api.daily.dev/devcards/58195896bcda44079ae83645c537f292.png?r=m4t" width="400" alt="Rajeev Mishra's Dev Card"/></a>
 Hello, curious minds! 👋
 Welcome to my world of Artificial Intelligence and Financial Wizardry! I'm Rajeev, a passionate AI researcher and a money geek on a thrilling journey of discovery. Here's a sneak peek into what you'll find in this wonderland:
 
