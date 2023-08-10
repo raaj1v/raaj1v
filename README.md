@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Vivid AI Researcher and Money GEEK 🚀💰
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raaj1v/raaj1v/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="[https://github.com/raaj1v/raaj1v/blob/master/devcard.svg](https://github.com/raaj1v/raaj1v/blob/main/devcard.svg)" width="400" alt="R4j1v's Dev Card"/></a>
 
 
 Hello, curious minds! 👋
