@@ -1,0 +1,166 @@
+ShortId,ShortName,Fullform
+1,AC,Air Conditioner
+2,A/C,Air Conditioner
+3,A-C,Air Conditioner
+4,A.C,Air Conditioner
+5,PWSS,Water supply scheme
+6,cct,Trenching work
+7,cnb,Cement Work
+8,ei,electrical installation
+9,qtrs,Quarters 
+10,LR,Link road
+11,rb,residential building
+12,bldg,building
+13,Moei,Electrical Installation
+14,CHT,Vehicle hiring
+15,LCV,Vehicle hiring
+16,AFAS,Fire Alarm System
+17,B/W,Boundary Wall
+18,Conc.,Concrete
+19,DEA,Engine Alternator Spares
+20,EMS,Electromechanical Service
+21,EA,Engine Alternator Spares
+22,EA Set,Engine Alternator Spares
+23,IEI,Electrical Installation
+24,OHSR,Overhead Service Reservoir
+25,OFC,Optical Fiber Cable
+26,OPC,Portland Cement
+27,PIEI,Electrical Work
+28,RMC,Ready Mix Concrete
+29,SL,Street Light
+30,WSSID,"Water Supply work, Sanitary work, Drainage"
+31,B/I,Pump
+32,Constg,Construction Work
+33,E.I.,Electrical Installation
+34,I.E.I.,Electrical Installation
+35,AHU,Air Handling Unit
+36,CPT,Control Transformer
+37,CT,Current Transformer
+38,DB,Distribution Board
+39,DCDB,Distribution Board
+40,ELCB,Earth Leakage Circuit Breaker
+41,LA,Lightning Arrester
+42,MCB,Miniature Circuit Breaker
+43,MCCB,Circuit Breaker
+44,VCB,Vacuum Circuit Breaker
+45,W/C,Water course
+46,WC,Water course
+47,Veh,Vehicle
+48,RO,Reverse Osmosis System
+49,RO System,Reverse Osmosis System
+50,ACR,class room
+51,R Wall,Retaining Wall
+52,R/Wall,Retaining Wall
+53,ETP,Effluent Treatment Plant
+54,LSG,Security Guard
+55,RPWSS,water supply scheme
+56,RM,raising main
+57,T/W,Tube well
+58,s/s,Substation
+59,bw,Boundary Wall
+60,wss,Water Supply Scheme
+61,W.S.S,Water Supply Scheme
+62,ers,Emergency Restoration System
+63,stp,Sewage Treatment Plant
+64,I.R.Q.P,Road
+65,L/J,Cable Laying
+66,OHE,Overhead Equipment
+67,Rsdl,Building
+68,WIS,Road
+69,FCU,Fan Coil Unit
+70,Genset,Generator
+71,CC Drain,CC Drain
+72,HDPE,HDPE Item
+73,LDPE,HDPE Item
+74,PVC,PVC Item
+75,PC,Computer
+76,HDD,Hard disk
+77,RAM,Random Access Memory
+78,non resdl,Building
+79,p/sets,Pump Set
+80,Renovation,Repair
+81,desktop,computer
+82,haptic,Laboratory Equipment
+83,firefighting equipment,Fire Fighting Equipment
+84,internet banking system,Banking equipment
+85,fall protection,Personal Protective Equipment
+86,inj.,"injection, Drugs"
+87,consultants,consultancy service
+88,earthing device,Earthing equipment
+89,vapour recovery system,Plant machinery
+90,lumans power,Electrical item
+91,bolt tensioner,Plant machinery
+92,x-ray,x ray
+93,air compressor,air compressor machine
+94,tab.,drugs
+95,lmvs,Vehicle hiring
+96,mak amocam,Gear oil
+97,tv,television
+98,mcu,Milk Collection Unit
+99,amcu,Milk Collection Unit
+100,automatic teller machine,ATM
+101,"r , wall",Retaining Wall
+102,cargo hook,aviation equipment
+103,p.way,P Way
+104,pway,P Way
+105,trnf,Transformer
+106,Gen,Generator
+107,News paper,Newspaper
+108,hotel,Property
+109,e token,Digital certificate
+110,e-token,Digital certificate
+111,PPE kit,Personal Protective Equipment
+112,PPE,Personal Protective Equipment
+113,covid-19,covid-19
+114,covid19,covid19
+115,covid 19,covid 19
+116,covid19 product,covid19 product
+117,covid19 products,covid19 products
+118,covid-19 product,covid-19 product
+119,covid-19 products,covid-19 products
+120,covid 19 product,covid 19 product
+121,covid 19 products,covid 19 products
+122,covid19 Item,covid19 Item
+123,covid19 Items,covid19 Items
+124,covid-19 Item,covid-19 Item
+125,covid-19 Items,covid-19 Items
+126,covid 19 Item,covid 19 Item
+127,covid 19 Items,covid 19 Items
+128,CRM,Customer Relationship Management System
+129,POS,POS Device
+130,Point of Sale,POS Device
+131,BMS,Building Management System
+132,NDT,Non Destructive Testing
+133,Non-Destructive Testing,Non Destructive Testing
+134,FOC,fiber optic cable
+135,Optical Fibre Cable,fiber optic cable
+136,MIS,Management Information System
+137,UAV,Unmanned Aerial Vehicle
+138,LAN,Local Area Network System
+139,Local Area Network,Local Area Network System
+140,Local-Area Network,Local Area Network System
+141,WAN,Wide area network
+142,wide-area network,Wide area network
+143,QA,Quality Assurance
+144,QAM,Quality Assurance
+145,QC,Quality Assurance
+146,QCM,Quality Assurance
+147,EV,Electric Vehicle
+148,CNG,Compressed natural gas
+149,Customer relationship management,Customer relationship management System
+150,High Density Polyethylene,HDPE Item
+151,Light Motor Vehicle,Vehicle hiring
+152,LMV,Vehicle hiring
+153,Closed-circuit television,CCTV device
+154,CCTV,CCTV device
+155,FMS,Facility Management Service
+156,RCC,Reinforced Cement Concrete
+157,BI,Business Intelligence Solution
+158,Business intelligence,Business Intelligence Solution
+159,SI,System Integrator
+160,Process Integration,System Integrator
+161,Process Integrator,System Integrator
+162,Heating ventilation and air conditioning,Heating Ventilation And Air Conditioner
+163,Heating ventilation air conditioning,Heating Ventilation And Air Conditioner
+164,Heating ventilation & air conditioning,Heating Ventilation And Air Conditioner
+165,ENT,Ear Nose and Throat
