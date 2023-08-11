@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" width="400" alt="R4j1v's Dev Card" align = "left"/></a><br>
+<a href="https://letmegooglethat.com/?q=Type+a+question%2C+click+on+Google+search"><img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" width="400" alt="R4j1v's Dev Card" align = "left"/></a><br>
 <br>
 <br>
 
