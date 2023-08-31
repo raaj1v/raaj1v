@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=raaj1v)
+
 <a href="https://letmegooglethat.com/?q=Rajeev+Mishra+raaj1v"><img src="https://github.com/raaj1v/raaj1v/blob/main/devcard.svg" width="400" alt="R4j1v's Dev Card" align = "left"/></a><br>
 <br>
 <br>
@@ -55,7 +57,7 @@ Let's embark on this exciting adventure together! Join me in reshaping the world
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaj1v&hide_progress=false&layout=donut)
 
-![Profile Views](https://komarev.com/ghpvc/?username=raaj1v)
+
 
 
 See you on the other side! 🌟💡
