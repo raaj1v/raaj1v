@@ -55,5 +55,7 @@ Let's embark on this exciting adventure together! Join me in reshaping the world
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaj1v&hide_progress=false&layout=donut)
 
+![](https://komarev.com/ghpvc/?username=raaj1v
+
 
 See you on the other side! 🌟💡
