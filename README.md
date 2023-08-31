@@ -50,6 +50,6 @@ Let's embark on this exciting adventure together! Join me in reshaping the world
 [![AI Blog](https://img.shields.io/badge/AI%20Blog-Insights-lightgrey)](link-to-ai-blog) <br>
 
 
-[![Raajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/raaj1v/github-readme-stats)
+[![Raajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=raaj1v)](https://github.com/raaj1v/github-readme-stats)
 
 See you on the other side! 🌟💡
