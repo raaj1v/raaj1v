@@ -41,7 +41,7 @@ My AI blog is a treasure trove of insights, tutorials, and musings on cutting-ed
 
 Connect with Me 🌐 <br>
 LinkedIn: <a href = "https://in.linkedin.com/raaj1v"> LinkedIn</a> <br>
-Twitter: <a href = "https://twitter.com/raaj1v"> @raaj1v</a><br>
+Twitter: <a href = "https://x.com/x3v______"> @raaj1v</a><br>
 Email: imeandrj@gmail.com<br>
 Let's embark on this exciting adventure together! Join me in reshaping the world through AI and mastering the art of financial prosperity.
 
