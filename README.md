@@ -53,7 +53,7 @@ Let's embark on this exciting adventure together! Join me in reshaping the world
 [![Raajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=raaj1v)](https://github.com/raaj1v/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaj1v&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaj1v&hide_progress=false&layout=donut)
 
 
 See you on the other side! 🌟💡
